@@ -1,2 +1,2 @@
-# Pendataan-siswa
-Aplikasi untuk pendataan siswa 
+# Pamungkas-JP
+Aplikasi untuk memberi tutorial agar selalu mendapatka  JEKPOT!
